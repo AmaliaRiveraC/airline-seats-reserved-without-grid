@@ -1,0 +1,22 @@
+.first_class {
+  background: purple;
+}
+
+.economic_class {
+  background: blue;
+}
+
+.seats {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.tickets {
+	display: inline-block;
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+}
